@@ -14,5 +14,5 @@ cd /root/
 git clone https://github.com/JayDDee/cpuminer-opt
 cd cpuminer-opt
 ./build.sh
-cd
+cd /root/
 cp cpuminer ../
